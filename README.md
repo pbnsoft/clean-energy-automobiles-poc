@@ -3,6 +3,7 @@
 **The idea:** fit a car with ducted wind turbines that harvest energy from the air moving around it as it drives. The physics verdict, after the idea was rebuilt as an interactive model and validated: at highway cruise the turbines' extra drag costs more energy than they harvest — the "wind" at cruise is mostly wind the car itself created. The harvest only pays when the air moves on its own: driving into a strong headwind, descending, braking, or parked in a storm. The author's chosen design hides flight-style turbines inside the bodywork, invisible from outside and revealed only in an X-ray view — the styling never advertises the machinery.
 
 *Chapter 4 of* **Inventions and Innovations** *by Balasubramanian Natarajan — "What an Agent Can Do With a Decade-Old Idea" (the 2017 article "Clean Energy for Automobiles," revisited in 2026).*
+**Live demo:** the interactive model — https://muse.ai/s/clean-energy-automobiles-real-time-hxc6vxzxaxmfdf9/dWxmiaOrPH4ar4WS5wUYukJTsoQXx6ZEVNo8abI5SRU
 
 ## The honest numbers first
 
