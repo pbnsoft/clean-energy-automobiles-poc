@@ -40,3 +40,7 @@ break_even_headwind(110)   # headwind needed to break even at 110 km/h
 ```
 
 See [docs/run-guide.md](docs/run-guide.md) for parameter details.
+
+---
+
+**The book:** This proof of concept accompanies Chapter 4 of *Ideas That Refused to Die* by Balasubramanian Natarajan — eight ideas rebuilt with working models and honest numbers. Kindle edition (pre-order; releases November 30, 2026): https://www.amazon.com/dp/B0HPX524ZH
